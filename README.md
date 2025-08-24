@@ -42,7 +42,7 @@ I'm passionate about creating innovative web solutions and constantly expanding 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aswanthkt-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aswanth-kt)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_handle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aswanth.k.t/)
 
 </div>
 
@@ -62,6 +62,7 @@ I'm passionate about creating innovative web solutions and constantly expanding 
 
 ---
 
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -69,6 +70,7 @@ I'm passionate about creating innovative web solutions and constantly expanding 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aswanth-kt&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
+-->
 
 ---
 
@@ -84,7 +86,7 @@ I'm passionate about creating innovative web solutions and constantly expanding 
 
 ### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Profile Views](https://visitcount.itsvg.in/api?id=aswanth-kt&icon=2&color=6)
+![](https://komarev.com/ghpvc/?username=aswanth-kt&color=brightgreen)
 
 **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
 
