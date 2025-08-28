@@ -65,17 +65,6 @@ I'm passionate about creating innovative web solutions and constantly expanding 
 ## 📊 Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aswanth-kt&theme=tokyo-night&hide_border=true)
 
-<!-- ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aswanth-kt&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
--->
-
 ---
 
 ## 💡 Fun Facts About Me
