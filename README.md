@@ -19,9 +19,14 @@ I'm passionate about creating innovative web solutions and constantly expanding 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### Frontend
+![React.js](https://img.shields.io/badge/React.js-87CEEB?style=for-the-badge&logo=reactjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0000FF?style=for-the-badge&logo=taiwindcss&logoColor=white)
+
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
